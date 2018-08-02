@@ -7,10 +7,12 @@ public class WithoutJoin {
 		Thread th1 = new Thread(new MyClass(), "th1");
 		Thread th2 = new Thread(new MyClass(), "th2");
 		Thread th3 = new Thread(new MyClass(), "th3");
+		Thread th4 = new Thread(new MyClass(), "th4");
 
 		th1.start();
 		th2.start();
 		th3.start();
+		th4.start();
 
 	}
 }
