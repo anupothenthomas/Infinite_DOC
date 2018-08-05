@@ -20,7 +20,6 @@ public class OddOrEven {
 		{
 			System.out.println("The number " +num+ " is an odd number");
 		}
-		
 
 	}
 
