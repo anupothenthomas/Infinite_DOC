@@ -1,4 +1,4 @@
-package oops_EXTRAS_DOC;
+package testprogs;
 
 import java.util.Scanner;
 

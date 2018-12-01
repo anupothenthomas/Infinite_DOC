@@ -19,8 +19,8 @@ public class HashMapContainsKey
 		 boolean flag = hashmap.containsKey(2);
 		    System.out.println("Key 2 exists in HashMap? : " + flag);
 		    
-		    boolean flags = hashmap.containsKey(9);
-		    System.out.println("Key 2 exists in HashMap? : " + flags);
+		    boolean fla = hashmap.containsKey(9);
+		    System.out.println("Key 2 exists in HashMap? : " + fla);
 	}
 	
 

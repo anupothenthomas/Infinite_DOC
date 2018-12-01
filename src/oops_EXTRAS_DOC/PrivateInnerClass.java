@@ -1,8 +1,8 @@
 package oops_EXTRAS_DOC;
 
-class Tester
+class Test
 {
-	private class Test
+	private class Testin
 	{
 		public void print()
 		{
@@ -12,7 +12,7 @@ class Tester
 	
 	void display_Inner()
 	{
-		Test obj = new Test();
+		Testin obj = new Testin();
 		obj.print();
 	}
 }
@@ -23,7 +23,7 @@ public class PrivateInnerClass {
 
 	public static void main(String[] args) 
 	{
-		Tester haha = new Tester();
+		Test haha = new Test();
 		
 		haha.display_Inner();
 		// TODO Auto-generated method stub
