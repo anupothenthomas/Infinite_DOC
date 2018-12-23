@@ -11,7 +11,7 @@ public class SortingStringAlpha
 	String	 temp;
 	Scanner in = new Scanner(System.in);
 	
-	//User will be asked to enter the number of strings for comparison
+	//User will be asked to enter the number of strings for the comparison
 	System.out.println("Enter the number of strings you wish to insert");
 	count = in.nextInt();
 	
@@ -47,7 +47,6 @@ public class SortingStringAlpha
     {
         System.out.print(str[i] + ", ");
     }
-	
 
 	}
 }
